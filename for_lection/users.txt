@@ -2,4 +2,4 @@
         {"name": "Zarina"},
         {"name": "Kate"}
     ]
-}
+}["foo", {"bar": ["baz", null, 1.0, 2]}]
